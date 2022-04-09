@@ -1,4 +1,6 @@
 /* groovylint-disable UnnecessaryGString */
 void call() {
-    println "gradle: build()"
+    stage("Gradle: Build"){
+        println "gradle: build()"
+    }
 }
