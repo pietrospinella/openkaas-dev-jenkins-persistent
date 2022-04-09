@@ -1,5 +1,5 @@
 /* groovylint-disable CompileStatic */
 libraries {
-    merge = true
+    // merge = true
     gradle
 }
